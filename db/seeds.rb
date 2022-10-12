@@ -12,7 +12,17 @@ movies = [
   "once upon a time",
   "pirates of the caribbean",
   "sherlock holmes",
-  "star wars"
+  "star wars",
+  "breaking bad",
+  "game of thrones",
+  "pulp fiction",
+  "jackie brown",
+  "kill bill",
+  "django unchained",
+  "the hateful eight",
+  "death proof",
+  "inglourious basterds",
+  "reservoir dogs"
 ]
 
 movies.each do |movie|
