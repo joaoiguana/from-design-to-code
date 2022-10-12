@@ -9,7 +9,10 @@
           <%= f.text_field :query,
                            class: "form-control",
                            value: params[:query],
-                           data: {search_movies_target: "input"}
+                           data: {
+                            search_movies_target: "input",
+                            action: "keyup->search-movies#update"
+                          }
                            %>
         <% end %>
 

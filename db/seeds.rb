@@ -5,7 +5,14 @@ movies = [
   "wonder woman",
   "thor",
   "black panther",
-  "avengers"
+  "avengers",
+  "harry potter",
+  "lord of the rings",
+  "godfather",
+  "once upon a time",
+  "pirate of the caribbean",
+  "sherlock holmes",
+  "star wars"
 ]
 
 movies.each do |movie|
