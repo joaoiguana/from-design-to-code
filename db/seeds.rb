@@ -10,7 +10,7 @@ movies = [
   "lord of the rings",
   "godfather",
   "once upon a time",
-  "pirate of the caribbean",
+  "pirates of the caribbean",
   "sherlock holmes",
   "star wars"
 ]
